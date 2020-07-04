@@ -6,5 +6,6 @@ public class AccountMain {
             Account a = new Account();
             a.setBalanced( 1000 );
             System.out.println( "balance is : " + a.getBalance() );
+
     }
 }
